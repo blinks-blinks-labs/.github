@@ -26,7 +26,7 @@ As of now, the protocol is functional with a whitelist and a limited number of i
 
 ## Team Members
 
-- **Yu Jian**: Research lead
+- **Yu Jian**，**skyh**: Research lead
 - **Xiao Long**: Technical expert
 - **Amagi**: Protocol specialist
 
